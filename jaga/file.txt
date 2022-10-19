@@ -1,2 +1,4 @@
 one line in file.txt
 secound line from branch child
+thard line in this file
+commit by child1
