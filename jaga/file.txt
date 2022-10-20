@@ -1,4 +1,8 @@
 one line in file.txt
 secound line from branch child
+child1
 thard line in this file
 commit by child1
+forth line in file.txt
+commit in child2
+ main
